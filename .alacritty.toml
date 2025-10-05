@@ -1,0 +1,35 @@
+[window]
+padding = { x = 10, y = 10 }
+opacity = 0.95
+
+[font]
+normal = { family = "FiraCode Nerd Font", style = "Regular" }
+size = 12.0
+
+[cursor]
+style = { shape = "Beam", blinking = "Always" }
+
+[colors.primary]
+background = "#0F0F0F"
+foreground = "#FFFFFF"
+
+[colors.normal]
+black   = "#0F0F0F"
+red     = "#FF2C4B"
+green   = "#1DC121"
+yellow  = "#C7C329"
+blue    = "#007ACC"
+magenta = "#FF00A0"
+cyan    = "#00C5C7"
+white   = "#C7C7C7"
+
+[colors.bright]
+black   = "#686868"
+red     = "#FF2C4B"
+green   = "#1DC121"
+yellow  = "#C7C329"
+blue    = "#007ACC"
+magenta = "#FF00A0"
+cyan    = "#00C5C7"
+white   = "#FFFFFF"
+
